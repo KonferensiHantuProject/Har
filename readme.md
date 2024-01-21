@@ -1,4 +1,2 @@
 # Har
 Har : Hi !
-
-* [ ] CRUD !
